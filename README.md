@@ -21,4 +21,8 @@
 - 🤖 **AI for Beginners** – HP LIFE Global  
   🔗 [Verify Credential](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948)
 
+- 📘 **Data Analysis with Excel** – FutureNation x Grameenphone  
+  🔗 [Verify Credential](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Data%20Analysis%20with%20Excel-CERTIFICATE.pdf)
+
+
 </details>
